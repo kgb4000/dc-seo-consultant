@@ -44,7 +44,7 @@ export default function Home() {
             </h1>
             <div className="subtext">
               <p>
-                I help Washington DC business owners get more traffic, leads,
+                I help business owners in Washington DC get more traffic, leads,
                 and sales with search engine optimization.
               </p>
               <a href={calendly}>
@@ -657,7 +657,9 @@ export default function Home() {
         </section>
         <section id="faq">
           <div className="small-container">
-            <h2 className="title">Frequently Asked Questions about Washington DC SEO Consultating</h2>
+            <h2 className="title">
+              Frequently Asked Questions about Washington DC SEO Consultating
+            </h2>
             <div>
               <h3>How much does SEO consulting cost?</h3>
               <p>It can cost between $1500 and $5000 a month.</p>
