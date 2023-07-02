@@ -549,7 +549,7 @@ export default function Home() {
             </Deliverables>
             <Deliverables>
               <img
-                src="/images/seo-expert.png"
+                src="/images/kester-browne.webp"
                 alt="I know what I'm doing."
                 title="I know what I'm doing."
                 loading="lazy"
