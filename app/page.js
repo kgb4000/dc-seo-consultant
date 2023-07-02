@@ -658,7 +658,7 @@ export default function Home() {
         <section id="faq">
           <div className="small-container">
             <h2 className="title">
-              Frequently Asked Questions about Washington DC SEO Consultating
+              Frequently Asked Questions about Washington DC SEO
             </h2>
             <div>
               <h3>How much does SEO consulting cost?</h3>
